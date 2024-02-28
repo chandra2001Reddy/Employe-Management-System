@@ -64,7 +64,7 @@ input[type="submit"]:hover {
 	<br>
 
 	<form:form action="view" modelAttribute="employee">
-		<form:label path="id">NAME :</form:label>
+		<form:label path="id">Id :</form:label>
 		<form:input path="id" />
 
 		<input type="submit">
